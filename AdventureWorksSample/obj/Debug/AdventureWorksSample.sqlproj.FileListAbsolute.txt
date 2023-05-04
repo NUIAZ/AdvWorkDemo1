@@ -1,0 +1,10 @@
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\bin\Debug\AdventureWorksSample.dacpac
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\bin\Debug\AdventureWorksSample.dll
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\bin\Debug\AdventureWorksSample.pdb
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\AdventureWorksSample.sqlproj.AssemblyReference.cache
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\Model.xml
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\refactor.xml
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\postdeploy.sql
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\predeploy.sql
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\AdventureWorksSample.dll
+C:\Users\ryan.gross\source\repos\AdventureWorksSample\AdventureWorksSample\obj\Debug\AdventureWorksSample.pdb
